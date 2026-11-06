@@ -8,11 +8,11 @@
 
  <div>
 <a href="https://beacons.ai/samuelmarcondes-dev">
-
+<div aling="center">
 <img height="180em" src="https://github-stats-extended.vercel.app/api?username=samuelmarcondes-dev&show_icons=true&theme=dark&include_all_commits=true"/>
 
 <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=samuelmarcondes-dev&layout=compact&theme=dark"/>
-
+</div>
 
 <br><br>
 <div align="left">
