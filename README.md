@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, Eu sou Samuel Marcondes
 
-<!--
-**samuelmarcondes-dev/samuelmarcondes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 No que estou trabalhando atualmente: Projetos pessoais de programação.
+- 🌱 O que estou aprendendo atualmente: Programação e desenvolvimento de software.
+- 📫 Como entrar em contato comigo: samuelmarcondes2010@gmail.com
+- 😄 Pronomes: Ele/Dele.
+- ⚡ Curiosidade: 17 anos/Adoro transformar ideias em projetos.
 
-Here are some ideas to get you started:
+ <div>
+<a href="https://beacons.ai/samuelmarcondes-dev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username-samuelmarcondes-dev&show_icons-true&theme-dark&include_all_commits-true&count_private-true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-samuelmarcondes-dev&layout-compact&langs_count-16&theme-dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://instagram.com/marcondzkl_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style-for-the-badge&logo-instagram&logoColor-white"target="blank"></a>
+<a href= target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style-for-the-badge&logo-discord&logoColor-white" target="_blank">
+</a>
+<a href="mailto:contato@samuelmarcondes2010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style-for-the-badge&logo-gmail&logoColor-white" target="_blank"></a> 
+</div>
